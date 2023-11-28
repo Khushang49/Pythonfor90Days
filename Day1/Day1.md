@@ -12,7 +12,7 @@ For Integers
 
 To Print in new Line
 
-Put **\n**within two strings
+Put **\n** within two strings
 
 **print("hello world\nThis is day 1)**  
 
